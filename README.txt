@@ -2,7 +2,7 @@ Proyecto 2021 INTEGRACION CONTINUA - SEGUNDO BLOQUE  GRUPO B02  - SUBGRUPO 5
 
 Desarrollo del trabajo Primera Entrega
 
-EstudianteS:
+Estudiantes:
 
 BREYNER DUBAN PEREZ ROLON
 MARIA PAULA HOYOS ORTIZ
