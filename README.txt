@@ -5,7 +5,7 @@ Desarrollo del trabajo Primera Entrega
 Colaboradores:
 
 Estudiante 
-BREYNER DUBAN PEREZ ROLON C.C 1093784332
+BREYNER DUBAN PEREZ ROLON
 MARIA PAULA HOYOS ORTIZ
 
 
