@@ -1,0 +1,13 @@
+Proyecto 2021 INTEGRACION CONTINUA - SEGUNDO BLOQUE  GRUPO B02  - SUBGRUPO 5
+
+Desarrollo del trabajo Primera Entrega
+
+Colaboradores:
+
+Estudiante BREYNER DUBAN PEREZ ROLON C.C 1093784332
+
+
+
+
+Institucuion Universitaria POLITECNICO GRANCOLOMBIANO 
+Facultad INGENIERIA DE SOFTWARE.
