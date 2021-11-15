@@ -2,7 +2,7 @@ INTEGRACION CONTINUA - SEGUNDO BLOQUE  GRUPO B02  - SUBGRUPO No. 5
 
 Desarrollo del trabajo Primera Entrega
 
-Estudiantes:
+Estudiantes
 
 BREYNER DUBAN PEREZ ROLON
 MARIA PAULA HOYOS ORTIZ
