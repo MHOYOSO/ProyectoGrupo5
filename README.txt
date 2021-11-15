@@ -1,6 +1,6 @@
 INTEGRACION CONTINUA - SEGUNDO BLOQUE  GRUPO B02  - SUBGRUPO No. 5
 
-Desarrollo del trabajo Primera Entrega
+Desarrollo del trabajo colaborativo Primera Entrega
 
 Estudiantes
 
