@@ -6,8 +6,8 @@ descarga docker desktop en el siguiente enlace 👇
 
 https://www.docker.com/products/docker-desktop -- Escritorio Docker
 
+----------------------------------------------------------------------------------------------
 Instrucciones 🔧
-
 
 Construccion 🛠️
 
@@ -18,6 +18,7 @@ En este repositorio y ejecute las siguientes instrucciones
 docker build ./docker1 -t backend1
 docker build ./docker2 -t backend2
 
+----------------------------------------------------------------------------------------------
 
 Despliegue 📦
 
@@ -35,6 +36,7 @@ Deberia ver el siguiente mensaje desde cada enlace
 Hello buddy, im running in the port: 3000
 Hello buddy, im running in the port: 4000
 
+----------------------------------------------------------------------------------------------
 
 Conexión 🖇️
 
