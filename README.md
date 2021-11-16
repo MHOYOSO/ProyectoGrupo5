@@ -61,4 +61,3 @@ conecte los contenedores con los siguientes comandos
 
 docker run -dit --name backend1 --network mynetwork alpine ash
 docker run -dit --name backend2 --network mynetwork alpine ash
-
