@@ -29,6 +29,7 @@ Ejecute las imagenes creadas en el paso anterior con los siguientes comandos
 docker run -p 3000:3000 -d backend1
 docker run -p 4000:4000 -d backend2
 
+----------------------------------------------------------------------------------------------
 
 Deberia ver el siguiente mensaje desde cada enlace
 
@@ -46,12 +47,14 @@ para realizar la conexión entre los dos contenedores debe crear una red de tipo
 
 docker network create --driver bridge mynetwork
 
+----------------------------------------------------------------------------------------------
 
 revisar que ha creado su rojo
 
 
 docker network inspect mynetwork
 
+----------------------------------------------------------------------------------------------
 
 conecte los contenedores con los siguientes comandos
 
